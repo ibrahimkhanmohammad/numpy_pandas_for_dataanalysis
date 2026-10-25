@@ -1,0 +1,11 @@
+What is Vectorization?
+
+- Vectorization is the process of performing operations on entire arrays without explicitly writing Python loops to process individual elements.
+
+- NumPy handles the element-wise operations internally using optimized code, which is generally much faster than Python loops.
+
+Easily remember by these 3 points:- 
+
+1. Avoids writing explicit Python loops for element-wise operations.
+2. Makes code shorter, cleaner and generally faster.
+3. NumPy performs these operations using optimized implementations internally.
